@@ -1,0 +1,55 @@
+[
+  {
+    "type": "native",
+    "name": "frcCpp",
+    "port": 8349,
+    "target": "10.91.2.2",
+    "launchfile": "C:\\Users\\CyborgBulls 9102\\Documents\\GitHub\\Robot-2023-fin\\build\\exe\\frcUserProgram\\release\\frcUserProgram",
+    "gdb": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gdb.exe",
+    "sysroot": "C:\\Users\\Public\\wpilib\\2023\\roborio",
+    "srcpaths": [
+      "C:\\Users\\CyborgBulls 9102\\Documents\\GitHub\\Robot-2023-fin\\src\\main\\cpp",
+      "C:\\Users\\CyborgBulls 9102\\Documents\\GitHub\\Robot-2023-fin\\src\\main\\include"
+    ],
+    "headerpaths": [
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\359f7caf420bc9eb6b5838eef6b92108\\transformed\\wpilibNewCommands-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\6d7639d401bb5379ad6a1f2eeb665b26\\transformed\\REVLib-cpp-2023.1.3-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\5726525af066a026e00dcc83da20653f\\transformed\\REVLib-driver-2023.1.3-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\08b94922f166479896fdcbd1969ec74c\\transformed\\wpiapi-cpp-5.30.4-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\dfb144f58cee9aeb62c78ff62d444828\\transformed\\api-cpp-5.30.4-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\f3baed4072821b239ab072bab649f120\\transformed\\cci-5.30.4-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\d6bb5753cf2a4fc1a20756bce3442c02\\transformed\\tools-23.0.5-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\bc1028255e2e3273ec528b2af3d23aec\\transformed\\wpilibc-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\be33c4a1aa46a938b80735bac57071b2\\transformed\\ntcore-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\e3c69062523517e3dc2b8a78fdc6039e\\transformed\\hal-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\bb76ba558ba7690e9d6a45357082bbaf\\transformed\\wpimath-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\3bc3005024a851184a2d7d926475a6d8\\transformed\\wpinet-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\d8a6909b3dd030e3dff574203c10dcae\\transformed\\wpiutil-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\40b6932e1948022ce64bd70754e9b7af\\transformed\\netcomm-2023.3.0-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\fda6004368f573f0bb01c8d032e124d6\\transformed\\chipobject-2023.3.0-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\106179155980090ad82f3cd087e8169f\\transformed\\visa-2023.3.0-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\e54696bbecadaf7fe8b85d9084d513d7\\transformed\\cameraserver-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\2e874a4172d0c180370544cd9b525bc7\\transformed\\cscore-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\3b8ef4ba20d8bd1f2985d43d0131d35d\\transformed\\apriltag-cpp-2023.3.2-headers",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\df671bd4df6e387749e196b4a45e4b30\\transformed\\opencv-cpp-4.6.0-4-headers",
+      "C:\\Users\\CyborgBulls 9102\\Documents\\GitHub\\Robot-2023-fin\\src\\main\\include"
+    ],
+    "libpaths": [
+      "C:\\Users\\CyborgBulls 9102\\Documents\\GitHub\\Robot-2023-fin\\build\\install\\frcUserProgram\\release\\lib",
+      "C:\\Users\\CyborgBulls 9102\\Documents\\GitHub\\Robot-2023-fin\\build\\install\\frcUserProgram\\release"
+    ],
+    "libsrcpaths": [
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\9d42911418caa975a26ab88b8177cdc0\\transformed\\wpilibNewCommands-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\1aacbadf2d8e3a4339a42fc28b00c7b1\\transformed\\wpilibc-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\974973f0c5c74431b7801b1ebfc6e455\\transformed\\ntcore-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\291db80e74dacda0c9646333e5c72b3b\\transformed\\hal-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\bb3550e4400bbc4a66de41ee40315eb8\\transformed\\wpimath-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\5e977c951fec7b666859cbf303f89a18\\transformed\\wpinet-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\051d50276c880ccdbc4d34ecaf952cba\\transformed\\wpiutil-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\39f36cc4287e285a0d6755c797c1a936\\transformed\\cameraserver-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\cf7b74686efff1eb2c3f74ec748e46db\\transformed\\cscore-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\76e36734fbde8c797829d6a34ee56542\\transformed\\apriltag-cpp-2023.3.2-sources",
+      "C:\\Users\\CyborgBulls 9102\\.gradle\\caches\\transforms-3\\8bdde3cad4f576671c3f561f5265dd22\\transformed\\opencv-cpp-4.6.0-4-sources"
+    ]
+  }
+]

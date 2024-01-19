@@ -1,0 +1,20 @@
+See file:///C:/Users/Matthis/Documents/prog/code/Robot-2023-fin/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+In file included from C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\include/Include.h:37,
+                 from C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\cpp\Robot.cpp:5:
+C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\include/Robot.h:88:37: warning: 'bool frc::Compressor::Enabled() const' is deprecated: To avoid confusion in thinking this (re)enables the compressor use IsEnabled() [-Wdeprecated-declarations]
+   88 |  bool enabled = phCompressor.Enabled();
+      |                 ~~~~~~~~~~~~~~~~~~~~^~
+In file included from C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\include/Robot.h:30:
+C:\Users\Matthis\.gradle\caches\transforms-3\530ee724ad5c9bfcf59b978ac42e406a\transformed\wpilibc-cpp-2023.3.2-headers/frc/Compressor.h:72:8: note: declared here
+   72 |   bool Enabled() const;
+      |        ^~~~~~~
+C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\cpp\Robot.cpp: In member function 'virtual void Robot::TeleopPeriodic()':
+C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\cpp\Robot.cpp:197:10: warning: unused variable 'max' [-Wunused-variable]
+  197 |   double max = frc::SmartDashboard::GetNumber("Max Output", 0);
+      |          ^~~
+C:\Users\Matthis\Documents\prog\code\Robot-2023-fin\src\main\cpp\Robot.cpp:198:10: warning: unused variable 'min' [-Wunused-variable]
+  198 |   double min = frc::SmartDashboard::GetNumber("Min Output", 0);
+      |          ^~~
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/Matthis/Documents/prog/code/Robot-2023-fin/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
